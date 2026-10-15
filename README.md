@@ -1,3 +1,5 @@
+<img src="logo.png" width="96" alt="Bridgecore logo">
+
 # Bridgecore
 
 **Plain words to app automations.** Say what should happen — *"when a Typeform is submitted, add a row to Google Sheets and send a Slack message"* — and get the concrete tool for each step, a ready-made recipe, an importable n8n workflow, or a preview of the exact API call. 3,597 capabilities from n8n, OpenAPI and MCP.
@@ -18,6 +20,7 @@
 ## Install
 - **Claude:** Settings → Connectors → Add custom connector → paste the server URL. Or install this repo as a plugin (`.claude-plugin/plugin.json`).
 - **Gemini CLI:** `gemini extensions install https://github.com/chinlee2200-dotcom/bridgecore`
+- **Cline:** see [`llms-install.md`](llms-install.md) — one settings entry, no key.
 - **Cursor / VS Code / any MCP client:** add a remote server with the URL above.
 
 ## What this repo is
