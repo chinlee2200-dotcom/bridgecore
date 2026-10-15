@@ -1,0 +1,12 @@
+{
+  "name": "bridgecore",
+  "version": "0.3.0",
+  "description": "Plain words to app automations: the tool per step, a ready-made recipe, an importable n8n workflow, or a preview of the exact API call. 3,597 capabilities. Read-only.",
+  "mcpServers": {
+    "bridgecore": {
+      "httpUrl": "https://bridgecore-mcp.chinlee2200.workers.dev/",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
